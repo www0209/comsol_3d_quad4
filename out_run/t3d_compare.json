@@ -1,0 +1,44 @@
+{
+ "temperature": {
+  "D1": {
+   "comsol_min": 344.5953,
+   "comsol_max": 356.4661,
+   "diff_mean": 2.6317454345703117,
+   "diff_max_abs": 3.4360000000000355
+  },
+  "D2": {
+   "comsol_min": 344.5073,
+   "comsol_max": 356.5585,
+   "diff_mean": 2.6161455078125,
+   "diff_max_abs": 3.4401999999999475
+  },
+  "D3": {
+   "comsol_min": 344.2254,
+   "comsol_max": 356.6401,
+   "diff_mean": 2.626185986328125,
+   "diff_max_abs": 3.4764000000000124
+  },
+  "D4": {
+   "comsol_min": 343.773,
+   "comsol_max": 356.5765,
+   "diff_mean": 2.5927265380859374,
+   "diff_max_abs": 3.3856999999999857
+  }
+ },
+ "tnuc": {
+  "n_rails": 488,
+  "n_nucleating_3d": 72,
+  "n_nucleating_reference": 289,
+  "within_10yr_3d": 72,
+  "within_10yr_reference": 47,
+  "earliest_years_3d": 3.5670216683144473,
+  "earliest_years_reference": 3.9513580627170635,
+  "rel_diff_median": -0.12961297112082762,
+  "rel_diff_abs_median": 0.12961297112082762,
+  "rel_diff_abs_max": 0.21410788886228757
+ },
+ "rail_node_temperature_diff_K": {
+  "mean": 2.208857840634238,
+  "max_abs": 3.6491000000000327
+ }
+}
